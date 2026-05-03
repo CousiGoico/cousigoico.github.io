@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mi Blog Técnico</title>
-    <link>https://portfolio.github.io/categories/</link>
-    <description>Recent content in Categories on Mi Blog Técnico</description>
+    <title>Categories on </title>
+    <link>//localhost:65238/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 18 Oct 2025 07:05:28 +0200</lastBuildDate>
-    <atom:link href="https://portfolio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Category1</title>
-      <link>https://portfolio.github.io/categories/category1/</link>
-      <pubDate>Sat, 18 Oct 2025 07:05:28 +0200</pubDate>
-      <guid>https://portfolio.github.io/categories/category1/</guid>
-      <description></description>
-    </item>
+    <language>en</language>
+    <atom:link href="//localhost:65238/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mi Blog Técnico</title>
-    <link>https://portfolio.github.io/posts/</link>
-    <description>Recent content in Posts on Mi Blog Técnico</description>
+    <title>Posts on </title>
+    <link>//localhost:65238/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 18 Oct 2025 07:05:28 +0200</lastBuildDate>
-    <atom:link href="https://portfolio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:65238/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Segundo Articulo</title>
-      <link>https://portfolio.github.io/posts/segundo-articulo/</link>
-      <pubDate>Sat, 18 Oct 2025 07:05:28 +0200</pubDate>
-      <guid>https://portfolio.github.io/posts/segundo-articulo/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Primer Articulo</title>
-      <link>https://portfolio.github.io/posts/primer-articulo/</link>
-      <pubDate>Sun, 12 Oct 2025 07:30:17 +0200</pubDate>
-      <guid>https://portfolio.github.io/posts/primer-articulo/</guid>
-      <description>&lt;p&gt;Hello, world!&lt;/p&gt;</description>
+      <title>Guía Completa: Crear un Bot de Telegram con C# (.NET)</title>
+      <link>//localhost:65238/posts/bottelegram/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:65238/posts/bottelegram/</guid>
+      <description>&lt;h1 id=&#34;-guía-completa-crear-un-bot-de-telegram-con-c-net&#34;&gt;🤖 Guía Completa: Crear un Bot de Telegram con C# (.NET)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-introducción&#34;&gt;📌 Introducción&lt;/h2&gt;&#xA;&lt;p&gt;Telegram ofrece una API muy potente para crear bots que pueden automatizar tareas, responder usuarios, integrarse con servicios externos y mucho más. En esta guía aprenderás paso a paso cómo crear un bot usando C# con .NET, desde cero hasta un nivel práctico.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-requisitos&#34;&gt;🧰 Requisitos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;.NET SDK instalado (recomendado .NET 6 o superior)&lt;/li&gt;&#xA;&lt;li&gt;Conocimientos básicos de C#&lt;/li&gt;&#xA;&lt;li&gt;Cuenta de Telegram&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-1-crear-el-bot-y-obtener-el-token&#34;&gt;🧑‍💻 1. Crear el bot y obtener el TOKEN&lt;/h2&gt;&#xA;&lt;h3 id=&#34;paso-1-abrir-botfather&#34;&gt;Paso 1: Abrir BotFather&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;En Telegram, busca: &lt;code&gt;@BotFather&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Inicia una conversación&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;paso-2-crear-el-bot&#34;&gt;Paso 2: Crear el bot&lt;/h3&gt;&#xA;&lt;p&gt;Escribe:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
